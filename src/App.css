@@ -1,0 +1,29 @@
+.site {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  font-family: 'Muli', sans-serif;
+  background-color: lightslategray;
+}
+
+.top {
+  margin-top: 5em;
+  padding: 3em;
+  background-color: white;
+}
+
+h1 {
+	font-family: 'Nothing You Could Do', cursive;
+	font-weight: bold;
+	text-align: center;
+}
+
+.table-cell {
+  text-align: center;
+}
+
+.smaller-text {
+	font-size: .6em;
+}
+
